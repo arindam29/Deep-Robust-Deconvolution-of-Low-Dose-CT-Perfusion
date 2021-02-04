@@ -7,5 +7,6 @@ Ruogu Fang, Tsuhan Chen and Pina C. Sanelli - Medical image analysis, Elsevier 2
 
 Requirements for the codes:
 
-1. Pytorch 1.3.1
-2. Matlab 2018b
+1. Python 3.7
+2. Pytorch 1.3.1
+3. Matlab 2018b
