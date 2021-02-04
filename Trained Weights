@@ -1,1 +1,5 @@
 
+The trained weights corresponding to the experiments are made available here - https://drive.google.com/drive/folders/1CeEY0hXj5N5Bt1zGNLZB4dYb6AKV7DAO?usp=sharing.
+
+Experiment 1 - trained and validated on patient A,B,C and tested on Patient D.
+Experiment 2 - trained and validated on patient A,C,D and tested on Patient B.
