@@ -10,3 +10,5 @@ Requirements for the codes:
 1. Python 3.7
 2. Pytorch 1.3.1
 3. Matlab 2018b
+
+Feel free to drop a mail to arindamdutta1996@gmail.com incase you find any bug in the codes or need any help with understanding them. 
