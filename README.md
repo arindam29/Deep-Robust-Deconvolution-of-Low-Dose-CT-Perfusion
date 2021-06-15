@@ -11,6 +11,8 @@ The proposed architecture has a major bottleneck as it can not handle variable n
 
 Both these methods are fully data-driven and aimed at working with less training data, thus having a good appeal for clinical settings. The standard approach of obtaining CT perfusion maps from temporal domain to map domain involves a significant number of preprocessing steps. The developed methods are single-step procedures and provide fast processing without compromising the quality of the perfusion maps for low-dose CT perfusion imaging. Integrating these methods with the post-processing software platforms will enable the availability of high-quality perfusion maps especially for time critical operations like ischemic stroke imaging. 
 
+![alt text](https://github.com/arindam29/Deep-Robust-Deconvolution-of-Low-Dose-CT-Perfusion/blob/exist_tech.png?raw=true)
+
 # Data and Experiments
 
 Data was prepared in accordance to the pre-processing pipeline presented in https://github.com/ruogufang/SPD.
