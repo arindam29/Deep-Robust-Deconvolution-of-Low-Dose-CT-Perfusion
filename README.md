@@ -18,7 +18,7 @@ Data was prepared in accordance to the pre-processing pipeline presented in http
 Our proposed algorithm was compared against Online-Sparse Perfusion Deconvolution algorithm presented in - Towards robust deconvolution of low-dose perfusion CT: Sparse perfusion deconvolution using online dictionary learning - 
 Ruogu Fang, Tsuhan Chen and Pina C. Sanelli - Medical image analysis, Elsevier 2013 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4196260/
 
-Note - The raw measurement data for the experiments is not provided in this repository.
+Note - The raw measurement data used for the experiments is not provided in this repository.
 
 # Requirements for the codes:
 
