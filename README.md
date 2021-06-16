@@ -30,4 +30,4 @@ Note - The raw measurement data used for the experiments is not provided in this
 
 # Contact
 Much like Gradient Descent, I always believe in learning from mistakes! So, incase you find any bug in the codes or need any help with understanding them - 
-Feel free to drop a mail to arindamdutta1996@gmail.com with cc to Prof. Phaneendra K. Yalavarthy yalavarthy@iisc.ac.in.
+Feel free to drop me a mail @ arindamdutta1996@gmail.com.
