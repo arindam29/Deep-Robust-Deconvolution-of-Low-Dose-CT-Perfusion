@@ -3,7 +3,7 @@
 
 Abstract - 
 
-Computed Tomography (CT) Perfusion imaging is a non-invasive medical imaging modality that has also established itself as a fast and economical imaging modality for diagnosing cerebrovascular diseases such as acute ischemia, subarachnoid hemorrhage, and vasospasm. Current CT perfusion imaging being dynamic in nature, requires three-dimensional data acquisition at multiple time points (temporal), resulting in a high dose for the patient under investigation. Low-dose CT perfusion (CTP) imaging suffers from low-quality perfusion maps as the noise in CTP data being spectral in nature. The thesis attempts to develop novel Deep Learning architectures that are fully data-driven and deep learning-based to obtain improved perfusion maps directly from low-dose CT Perfusion data.
+Computed Tomography (CT) Perfusion imaging is a non-invasive medical imaging modality that has also established itself as a fast and economical imaging modality for diagnosing cerebrovascular diseases such as acute ischemia, subarachnoid hemorrhage, and vasospasm. Current CT perfusion imaging being dynamic in nature, requires three-dimensional data acquisition at multiple time points (temporal), resulting in a high dose for the patient under investigation. Low-dose CT perfusion (CTP) imaging suffers from low-quality perfusion maps as the noise in CTP data being spectral in nature. The thesis attempts to develop novel Deep Learning architectures to obtain improved perfusion maps directly from low-dose CT Perfusion data.
 
 ![github-small](https://github.com/arindam29/Deep-Robust-Deconvolution-of-Low-Dose-CT-Perfusion/blob/main/exist_tech.png?raw=true)
 
