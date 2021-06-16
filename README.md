@@ -29,5 +29,5 @@ Note - The raw measurement data used for the experiments is not provided in this
 3. Matlab 2018b
 
 # Contact
-Much like Gradient Descent, I always believe in learning from mistakes! So, incase you find any bug in the codes or need any help with understanding them - 
+Much like Gradient Descent, I have always believed in learning from mistakes! So, incase you find any bug in the codes or need any help with understanding them - 
 Feel free to drop me a mail @ arindamdutta1996@gmail.com.
