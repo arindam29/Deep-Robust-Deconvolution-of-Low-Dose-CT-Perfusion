@@ -10,7 +10,11 @@ function [RMSE, SSIM, PSNR, SNR] = compute_metric(InImage, GTImage,Mask)
 
     PSNR = 20 * log10(max(GTImage(Mask))/(RMSE));
 
-    SSIM = ssim(InImage,GTImage,'DynamicRange', 100);
+    %SSIM = ssim(InImage,GTImage,'DynamicRange', 100);
+
+	[~,ssimmap] = ssim(InImage,GTImage,'DynamicRange', 100);
+
+	SSIM = mean(ssimmap(Mask));
     
     SNR = 10*log10(mean(InImage(Mask(:)).^2)/var(InImage(Mask(:))-GTImage(Mask(:))));
 
