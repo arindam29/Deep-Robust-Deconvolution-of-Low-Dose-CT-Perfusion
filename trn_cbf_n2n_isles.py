@@ -20,7 +20,7 @@ from datetime import datetime
 from config import Config
 from mydataset import myDataset
 import h5py as h5
-from models import N2N_UNet
+from models_n2n import N2N_UNet
 from torch.nn.parallel import DistributedDataParallel
 from compute_metric import compute_ssim
 
