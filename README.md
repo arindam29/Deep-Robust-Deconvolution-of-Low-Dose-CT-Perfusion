@@ -9,7 +9,7 @@ Computed Tomography (CT) Perfusion imaging is a non-invasive medical imaging mod
 
 # Data and Experiments
 
-Data was prepared in accordance to the pre-processing pipeline made available on https://github.com/ruogufang/pct.
+Data was prepared in accordance to the PCT pre-processing pipeline made available on https://github.com/ruogufang/pct.
 
 Our proposed algorithm was compared against Online-Sparse Perfusion Deconvolution algorithm presented in - Towards robust deconvolution of low-dose perfusion CT: Sparse perfusion deconvolution using online dictionary learning - 
 Ruogu Fang, Tsuhan Chen and Pina C. Sanelli - Medical image analysis, Elsevier 2013 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4196260/
